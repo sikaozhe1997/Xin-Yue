@@ -55,3 +55,7 @@
 - [北大未名辅导员回复](https://sikaozhe1997.github.io/Xin-Yue/%E5%8C%97%E5%A4%A7%E6%9C%AA%E5%90%8D%E8%BE%85%E5%AF%BC%E5%91%98%E5%9B%9E%E5%A4%8D/)
 - [外国语学院情况说明](https://sikaozhe1997.github.io/Xin-Yue/%E5%A4%96%E5%9B%BD%E8%AF%AD%E5%AD%A6%E9%99%A2%E6%83%85%E5%86%B5%E8%AF%B4%E6%98%8E/)
 
+## For people who couldn't read Chinese
+
+[Here is an English coverage about this repo.](https://supchina.com/2018/04/23/beida-student-to-school-stop-trying-to-gag-me-on-rape-case/) Because news and personal blogs about this have been censored from Chinese social media and websites, people put the open letter, related articles and links here to let more people know this and keep a record on the internet.  
+
