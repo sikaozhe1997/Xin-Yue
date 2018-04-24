@@ -10,6 +10,6 @@ title: 索引
 {% for file in site.static_files %}
     {% if file.name == "index.html" or file.name == "index.htm"%}
     
-* [{{ file.path | remove: file.name | remove: "/" }}]({{ site.baseurl | append: site.github.build_revision | relative_url }})
+* [{{ file.path | remove: file.name | remove: "/" }}]({{ file.path | append: site.github.build_revision | relative_url }})
     {% endif %}
 {% endfor %}
