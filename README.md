@@ -52,7 +52,7 @@
 
 ## 参考
 - 维基百科：[沈阳事件](沈阳事件.md)，[原文](https://zh.wikipedia.org/wiki/%E6%B2%88%E9%98%B3%E4%BA%8B%E4%BB%B6)
-
+- ETH记录地址: [ETH记录地址](https://etherscan.io/tx/0x2d6a7b0f6adeff38423d4c62cd8b6ccb708ddad85da5d3d06756ad4d8a04a6a2)
 ## 被删网站镜像
 - [紧急关注北大岳昕同学被施压情况](https://sikaozhe1997.github.io/Xin-Yue/%E7%B4%A7%E6%80%A5%E5%85%B3%E6%B3%A8%E5%8C%97%E5%A4%A7%E5%B2%B3%E6%98%95%E5%90%8C%E5%AD%A6%E8%A2%AB%E6%96%BD%E5%8E%8B%E6%83%85%E5%86%B5/)
 - [北大未名辅导员回复](https://sikaozhe1997.github.io/Xin-Yue/%E5%8C%97%E5%A4%A7%E6%9C%AA%E5%90%8D%E8%BE%85%E5%AF%BC%E5%91%98%E5%9B%9E%E5%A4%8D/)
