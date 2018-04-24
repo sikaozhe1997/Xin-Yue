@@ -1,3 +1,5 @@
+[English version](https://github.com/sikaozhe1997/Xin-Yue/blob/master/letter.md)
+
 # 岳昕：致北大师生与北大外国语学院的一封公开信
 北京大学的老师和同学：
 你们好！
