@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/sikaozhe1997/Xin-Yue.svg?branch=master)](https://travis-ci.org/sikaozhe1997/Xin-Yue)
+
 # 岳昕：致北大师生与北大外国语学院的一封公开信
 北京大学的老师和同学：
 你们好！

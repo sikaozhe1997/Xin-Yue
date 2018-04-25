@@ -1,0 +1,4 @@
+install:
+  - npm install -g markdown-link-check
+script:
+  - bash ./check_links.sh
