@@ -13,3 +13,6 @@ title: 索引
 * [{{ file.path | remove: file.name | remove: "/" }}]({{ file.path | relative_url }})
     {% endif %}
 {% endfor %}
+
+{% include disqus.html %}
+
