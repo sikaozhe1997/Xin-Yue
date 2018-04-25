@@ -60,3 +60,7 @@
 - [现场 / 我所亲历的邓同学被约谈事件](http://chuantu.biz/t6/293/1524569430x-1404792199.png)
 
 
+## For people who couldn't read Chinese
+
+[Here is an English coverage about this repo.](https://supchina.com/2018/04/23/beida-student-to-school-stop-trying-to-gag-me-on-rape-case/) Because news and personal blogs about this have been censored from Chinese social media and websites, people put the open letter, related articles and links here to let more people know this and keep a record on the internet.  
+
