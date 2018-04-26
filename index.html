@@ -55,11 +55,11 @@
 
 <script>
   gitalkConfig = {
-      clientID: '8b7cffeb4ae285e0e3e4',
-      clientSecret: '58d06f5220e953d6dac7d6723daf225177cc7bb3',
+      clientID: 'e56517f0c3543ee3bfbf',
+      clientSecret: '22cd9a04141c76e74a75098164ff404449b71a3e',
       repo: 'Xin-Yue',
       owner: 'sikaozhe1997',
-      admin: ['sikaozhe1997'],
+      admin: ['sikaozhe1997','gaocegege','SniperChen','zhaobenx'],
       distractionFreeMode: false
     },
     window.$docsify = {
@@ -79,7 +79,8 @@
         function (hook, vm) {
           hook.doneEach(function () {
             var label, domObj, main, divEle, gitalk;
-            label = vm.route.path.split('/').join('').split('.')[0];
+            label = vm.route.path.split('/').join('').split('.')[0].substring(0, 49);
+            console.log(label);
             domObj = Docsify.dom;
             main = domObj.getNode("#main");
             /**
