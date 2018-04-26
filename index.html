@@ -11,48 +11,90 @@
   <title>Xin Yue</title>
   <link rel="stylesheet" href="//unpkg.com/docsify/themes/vue.css">
   <link rel="stylesheet" href="//unpkg.com/gitalk/dist/gitalk.css">
+  <style>
+    /* gitalk */
+    .gt-container a {
+      color: #42b983;
+    }
+    .gt-container a:hover {
+      color: #67C79B;
+      border-color: #67C79B;
+    }
+    .gt-container .gt-svg svg {
+      fill: #42b983;
+    }
+    .gt-container .gt-spinner::before {
+      border-top-color: #42b983;
+    }
+    .gt-container .gt-btn {
+      background-color: #42b983;
+    }
+    .gt-container .gt-btn:hover {
+      background-color: #67C79B;
+    }
+    .gt-container .gt-link {
+      border-bottom: 1px dotted #42b983;
+    }
+    .gt-container .gt-user .is--poping .gt-ico svg {
+      fill: #42b983;
+    }
+    .gt-container .gt-popup .gt-action.is--active:before {
+      background: #42b983;
+    }
+    .gt-container .gt-header-controls-tip {
+      color: #42b983;
+    }
+    .gt-container .gt-comment-username {
+      color: #42b983;
+    }
+  </style>
 </head>
 <body>
 
-  <div id="app"></div>
-  <script>
-    gitalkConfig = {
-        clientID: '8b7cffeb4ae285e0e3e4',
-        clientSecret: '58d06f5220e953d6dac7d6723daf225177cc7bb3',
-        repo: 'Xin-Yue',
-        owner: 'sikaozhe1997',
-        admin: ['sikaozhe1997'],
-        distractionFreeMode: false
+<div id="app"></div>
+
+<script>
+  gitalkConfig = {
+      clientID: '8b7cffeb4ae285e0e3e4',
+      clientSecret: '58d06f5220e953d6dac7d6723daf225177cc7bb3',
+      repo: 'Xin-Yue',
+      owner: 'sikaozhe1997',
+      admin: ['sikaozhe1997'],
+      distractionFreeMode: false
     },
     window.$docsify = {
-        repo: "sikaozhe1997/Xin-Yue",
-        loadSidebar: "sidebar.html",
-        subMaxLevel: 2,
-        plugins: [
-            function(hook, vm) {
-                hook.doneEach(function(){
-                    var label, domObj, main, divEle, gitalk;
-                    label = vm.route.path.split('/').join('').split('.')[0];
-                    domObj = Docsify.dom;
-                    main = domObj.getNode("#main");
-                    /**
-                    * render gittalk
-                    */
-                    Array.apply(null,document.querySelectorAll("div.gitalk-container")).forEach(function(ele){ele.remove()});
-                    divEle = domObj.create("div");
-                    divEle.id = "gitalk-container-" + label;
-                    divEle.className = "gitalk-container";
-                    divEle.style = "width: " + main.clientWidth + "px; margin: 0 auto 20px;";
-                    domObj.appendTo(domObj.find(".content"), divEle);
-                    gitalk = new Gitalk(Object.assign(gitalkConfig, {id: !label ? "home" : label}))
-                    gitalk.render('gitalk-container-' + label)
-                })
-            }
-        ]
+      repo: "sikaozhe1997/Xin-Yue",
+      loadSidebar: "sidebar.html",
+      subMaxLevel: 2,
+      plugins: [
+        function (hook, vm) {
+          hook.doneEach(function () {
+            var label, domObj, main, divEle, gitalk;
+            label = vm.route.path.split('/').join('').split('.')[0];
+            domObj = Docsify.dom;
+            main = domObj.getNode("#main");
+            /**
+             * render gittalk
+             */
+            Array.apply(null, document.querySelectorAll("div.gitalk-container")).forEach(function (ele) {
+              ele.remove()
+            });
+            divEle = domObj.create("div");
+            divEle.id = "gitalk-container-" + label;
+            divEle.className = "gitalk-container";
+            divEle.style = "width: " + main.clientWidth + "px; margin: 0 auto 20px;";
+            domObj.appendTo(domObj.find(".content"), divEle);
+            gitalk = new Gitalk(Object.assign(gitalkConfig, {
+              id: !label ? "home" : label
+            }))
+            gitalk.render('gitalk-container-' + label)
+          })
+        }
+      ]
     }
-  </script>
-  <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
-  <script src="//unpkg.com/docsify-pagination/dist/docsify-pagination.min.js"></script>
-  <script src="//unpkg.com/gitalk/dist/gitalk.min.js"></script>
+</script>
+<script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
+<script src="//unpkg.com/docsify-pagination/dist/docsify-pagination.min.js"></script>
+<script src="//unpkg.com/gitalk/dist/gitalk.min.js"></script>
 </body>
 </html>
