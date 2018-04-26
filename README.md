@@ -1,10 +1,10 @@
 [![Build Status](https://travis-ci.org/sikaozhe1997/Xin-Yue.svg?branch=master)](https://travis-ci.org/sikaozhe1997/Xin-Yue)
 
-* [这个库用来做什么](#这个库用来干什么)
-* [版权说明](#版权说明)
-* [我想了解这个事件](#我想了解这个事件)
-* [我想参与讨论这个事件](#我想参与讨论这个事件)
-* [我该如何提供我掌握的信息](#我该如何提供我掌握的信息)
+* [这个库用来做什么](https://github.com/sikaozhe1997/Xin-Yue/blob/master/README.md#这个库用来干什么)
+* [版权说明](https://github.com/sikaozhe1997/Xin-Yue/blob/master/README.md#版权说明)
+* [我想了解这个事件](https://github.com/sikaozhe1997/Xin-Yue/blob/master/README.md#我想了解这个事件)
+* [我想参与讨论这个事件](https://github.com/sikaozhe1997/Xin-Yue/blob/master/README.md#我想参与讨论这个事件)
+* [我该如何提供我掌握的信息](https://github.com/sikaozhe1997/Xin-Yue/blob/master/README.md#我该如何提供我掌握的信息)
 
 ## 这个库用来干什么
 
