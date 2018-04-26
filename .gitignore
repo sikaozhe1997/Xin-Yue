@@ -5,6 +5,9 @@
 # vim
 *.swp
 
+# jekyll
+_site/
+
 ._*
 .Spotlight-V100
 .Trashes
