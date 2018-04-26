@@ -66,6 +66,15 @@
       repo: "sikaozhe1997/Xin-Yue",
       loadSidebar: "sidebar.html",
       subMaxLevel: 2,
+      search: {
+        noData: {
+          '/': '找不到结果!'
+        },
+        paths: 'auto',
+        placeholder: {
+          '/': '搜索'
+        }
+      },
       plugins: [
         function (hook, vm) {
           hook.doneEach(function () {
@@ -96,5 +105,6 @@
 <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
 <script src="//unpkg.com/docsify-pagination/dist/docsify-pagination.min.js"></script>
 <script src="//unpkg.com/gitalk/dist/gitalk.min.js"></script>
+<script src="//unpkg.com/docsify/lib/plugins/search.js"></script>
 </body>
 </html>
