@@ -11,33 +11,100 @@
   <title>Xin Yue</title>
   <link rel="stylesheet" href="//unpkg.com/docsify/themes/vue.css">
   <link rel="stylesheet" href="//unpkg.com/gitalk/dist/gitalk.css">
+  <style>
+    /* gitalk */
+    .gt-container a {
+      color: #42b983;
+    }
+    .gt-container a:hover {
+      color: #67C79B;
+      border-color: #67C79B;
+    }
+    .gt-container .gt-svg svg {
+      fill: #42b983;
+    }
+    .gt-container .gt-spinner::before {
+      border-top-color: #42b983;
+    }
+    .gt-container .gt-btn {
+      background-color: #42b983;
+    }
+    .gt-container .gt-btn:hover {
+      background-color: #67C79B;
+    }
+    .gt-container .gt-link {
+      border-bottom: 1px dotted #42b983;
+    }
+    .gt-container .gt-user .is--poping .gt-ico svg {
+      fill: #42b983;
+    }
+    .gt-container .gt-popup .gt-action.is--active:before {
+      background: #42b983;
+    }
+    .gt-container .gt-header-controls-tip {
+      color: #42b983;
+    }
+    .gt-container .gt-comment-username {
+      color: #42b983;
+    }
+  </style>
 </head>
 <body>
 
-  <div id="app"></div>
-  <script>
-    window.$docsify = {
-        repo: "sikaozhe1997/Xin-Yue",
-        loadSidebar: "sidebar.html",
-        subMaxLevel: 2
-    }
-  </script>
-  
+<div id="app"></div>
 
-  <script src="//unpkg.com/docsify/lib/plugins/gitalk.min.js"></script>
-  <script src="//unpkg.com/gitalk/dist/gitalk.min.js"></script>
-  <script>
-    const gitalk = new Gitalk({
+<script>
+  gitalkConfig = {
       clientID: 'e56517f0c3543ee3bfbf',
       clientSecret: '22cd9a04141c76e74a75098164ff404449b71a3e',
       repo: 'Xin-Yue',
       owner: 'sikaozhe1997',
       admin: ['sikaozhe1997','gaocegege','SniperChen','zhaobenx'],
-      id: decodeURI((location.href).split("/").pop()).substring(0, 49),      // Ensure uniqueness and length less than 50
-      distractionFreeMode: false  // Facebook-like distraction free mode
-    })
-  </script>
-  <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
-  <script src="//unpkg.com/docsify-pagination/dist/docsify-pagination.min.js"></script>
+      distractionFreeMode: false
+    },
+    window.$docsify = {
+      repo: "sikaozhe1997/Xin-Yue",
+      loadSidebar: "sidebar.html",
+      subMaxLevel: 2,
+      search: {
+        noData: {
+          '/': '找不到结果!'
+        },
+        paths: 'auto',
+        placeholder: {
+          '/': '搜索'
+        }
+      },
+      plugins: [
+        function (hook, vm) {
+          hook.doneEach(function () {
+            var label, domObj, main, divEle, gitalk;
+            label = vm.route.path.split('/').join('').split('.')[0].substring(0, 49);
+            domObj = Docsify.dom;
+            main = domObj.getNode("#main");
+            /**
+             * render gittalk
+             */
+            Array.apply(null, document.querySelectorAll("div.gitalk-container")).forEach(function (ele) {
+              ele.remove()
+            });
+            divEle = domObj.create("div");
+            divEle.id = "gitalk-container-" + label;
+            divEle.className = "gitalk-container";
+            divEle.style = "width: " + main.clientWidth + "px; margin: 0 auto 20px;";
+            domObj.appendTo(domObj.find(".content"), divEle);
+            gitalk = new Gitalk(Object.assign(gitalkConfig, {
+              id: !label ? "home" : label
+            }))
+            gitalk.render('gitalk-container-' + label)
+          })
+        }
+      ]
+    }
+</script>
+<script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
+<script src="//unpkg.com/docsify-pagination/dist/docsify-pagination.min.js"></script>
+<script src="//unpkg.com/gitalk/dist/gitalk.min.js"></script>
+<script src="//unpkg.com/docsify/lib/plugins/search.js"></script>
 </body>
 </html>
