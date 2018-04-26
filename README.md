@@ -84,6 +84,6 @@
 
     1. 选择Create New file，编写markdown格式文件。
 
-    2. Folk该项目，上传markdown格式文件，选择pull requests。
+    2. Fork该项目，上传markdown格式文件，选择pull requests。
 
 - [Markdown语法](https://www.jianshu.com/p/20e82ddb37cb)
