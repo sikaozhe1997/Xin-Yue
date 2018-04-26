@@ -53,7 +53,7 @@
         
         [王艳超：作为辅导员说明情况](https://sikaozhe1997.github.io/Xin-Yue/#/%E8%BE%85%E5%AF%BC%E5%91%98%E5%9B%9E%E5%A4%8D.md)
         
-        [沈岿教授：校园约谈指南](https://sikaozhe1997.github.io/Xin-Yue/#/%E6%B2%88%E5%B2%BF%EF%BC%9A%E3%80%8A%E5%AD%A6%E6%A0%A1%E7%BA%A6%E8%B0%88%E6%8C%87%E5%8D%97%E3%80%8B%EF%BC%88%E5%BB%BA%E8%AE%AE%EF%BC%8C%E7%AC%AC%E4%BA%8C%E7%A8%BF%EF%BC%89.md)
+        [沈岿教授：校园约谈指南](https://sikaozhe1997.github.io/Xin-Yue/#/%E6%B2%88%E5%B2%BF%EF%BC%9A%E3%80%8A%E5%AD%A6%E6%A0%A1%E7%BA%A6%E8%B0%88%E6%8C%87%E5%8D%97%E3%80%8B.md)
         
         [燕园事件：声援勇士岳昕](https://sikaozhe1997.github.io/Xin-Yue/#/23%E6%97%A5%E6%99%9A%E5%8C%BF%E5%90%8D%E8%80%85%E5%A3%B0%E6%8F%B4%E5%B2%B3%E6%98%95%E5%AD%97%E6%8A%A5)
 
