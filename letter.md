@@ -19,11 +19,11 @@ Midday 20th April, I received the FOI response from the University. With the pre
 I was disappointed by this response. But the deadline for my Thesis submission was closing up, I had to concentrate on my Thesis.
 
 ## III
-At around 11pm on 22th April, my School Counsellor suddenly called me, but I didn't receive it because it was very late. 1am in the morning, my Counsellor and my mother suddenly came to my dorm and woke me up abruptly, asking me to delete everything related to the FOI request in my phone and computer, and to make a written promise at the Student Affairs Office later in the day, stating that I will no longer be involved with this matter. This can be proven by students living on the same floor. Then I was carried home by my parent and currently cannot go back to school. 
+At around 11pm on 22nd April, my School Counsellor suddenly called me, but I didn't receive it because it was very late. 1am in the morning, my Counsellor and my mother suddenly came to my dorm and woke me up abruptly, asking me to delete everything related to the FOI request in my phone and computer, and to make a written promise at the Student Affairs Office later in the day, stating that I will no longer be involved with this matter. This can be proven by students living on the same floor. Then I was carried home by my parent and currently cannot go back to school. 
 
 My mother and I stayed up the entire night. When the school contacted my mother, they deformed the facts, which made my mother extremely frightened and had a break down. Due to the school's preposterous intervention, the relationship between I and my mother almost broke apart. The actions made by the School has exceeded the bottom line, I feel fearful and outraged. 
 
-What's guilty about filing an FOI request? I did not do anything wrong and will not regret having filed the FOI request. It is my honourable right as a student at PKU.
+What's guilty about filing an FOI request? I did not do anything wrong and will not regret having filed the FOI request. It is my honorable right as a student at PKU.
 
 Twenty years of motherly caring, I love my mother. My heart was bleeding as I see her wailing, slapping herself, knelt and begging, even threatening with suicide. With her begging I could only return home, but there is no backing off from the principles, Surrendering doesn't solve anything. I have no way to go but to write down this letter and tell the story.
 
@@ -34,7 +34,7 @@ Hereby I formally request the following from the School of Foreign Languages of 
 
 1. The School of Foreign Languages of Peking University should formally and publicly state the regulations, in accordance to which they pressured my parent without my knowledge, abruptly interviewed me in my dorm 1am in the morning and asked me to delete information related to the FOI request. Specify the illicit practices and put forward actions to prevent this from happening again.
 
-2. The School of Foreign Languages of Peking University should immediately stop any action of pressuring my families, formally apologise and clarify the facts to my frightened mother, and help to repair the family relationship intensified by this incident
+2. The School of Foreign Languages of Peking University should immediately stop any action of pressuring my families, formally apologize and clarify the facts to my frightened mother, and help to repair the family relationship intensified by this incident
 
 3. The School of Foreign Languages of Peking University must make a formal promise that this incident will not affect my graduation and will not disturb my Thesis preparation in the future.
 
@@ -42,7 +42,7 @@ Hereby I formally request the following from the School of Foreign Languages of 
 
 5. The School of Foreign Languages of Peking University should publicly give a written response to the above appeals, as an explanation to those who are concerned about this matter.
 
-I reserve the right to pursue legal actions against related individuals and organisations, including, but not limited to, reporting to the Peking University and superior administrations the severe violation of the Code of Conducts made by the School of Foreign Languages.
+I reserve the right to pursue legal actions against related individuals and organizations, including, but not limited to, reporting to the Peking University and superior administrations the severe violation of the Code of Conducts made by the School of Foreign Languages.
 
 Undergraduate student Yue Xin, Class 2018 at the School of Foreign Languages of Peking University
 
