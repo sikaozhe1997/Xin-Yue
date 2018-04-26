@@ -1,4 +1,0 @@
-source "https://gems.ruby-china.org"
-
-gem "jekyll", "~> 3.1"
-gem 'jekyll-theme-minimal', '~> 0.1.1'
