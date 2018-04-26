@@ -11,6 +11,7 @@
 - 客观公正的记录整个事件中的过程，以及各家发出的声音。
 - 监督学校的行为，为保护岳同学尽一点力量
 - 如果您有其他的目的及用途，folk this and do whatever you want. 
+- 质疑这个库为什么存在，您可以前往 [Repo讨论](https://github.com/sikaozhe1997/Xin-Yue/issues/530)
 
 ## 版权说明
 
@@ -64,7 +65,7 @@
     - 原则上禁止脱离本事件或岳昕同学的讨论
     
 - Issue讨论规则：
-    1. 发布前请检索是否有相似内容的issues, 如果不存在相似内容的issues，才可以根据 #532 的规则创建新的issues。否则issues关闭。
+    1. 发布前请检索是否有相似内容的issues, 如果不存在相似内容的issues，才可以根据 [issue #532](https://github.com/sikaozhe1997/Xin-Yue/issues/532) 的规则创建新的issues。否则issues关闭。
     2. 为规范讨论，请勿发布抨击、诋毁、辱骂他人的issues, 否则将面临issues 关闭。
     3. 我们更不允许出现人肉等恶劣行为的发生。
     - 格式：
