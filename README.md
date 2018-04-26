@@ -16,13 +16,13 @@
 
 - Repo内文章皆是转载自各个平台，请勿商用
 - 转载岳昕同学的文章版权归岳昕同学所有
-- 关于版权的讨论可以前往：Issue #84
+- 关于版权的讨论可以前往：[版权问题讨论](https://github.com/sikaozhe1997/Xin-Yue/issues/84)
 
 ## **[我想了解这个事件](https://sikaozhe1997.github.io/Xin-Yue/)**
 
 - 如果您想了解整个事件请访问[Gitpage](https://sikaozhe1997.github.io/Xin-Yue/) , 里面有事件开始到现在网络上出现过的大多数文章。网页中的文章皆不是该Repo的Owner，Collaborator，Contributor所写，这些只是他们所收集的文章，**真实性请自己判断**。
 
-- 最新动态：根据微信群的消息（真实性不确定），岳昕同学已经回到学校，Issue #614
+- 最新动态：根据微信群的消息（真实性不确定），[岳昕同学已经回到学校](https://github.com/sikaozhe1997/Xin-Yue/issues/614)
 
 - 已收录文章：
     
