@@ -64,14 +64,19 @@
     - 原则上禁止脱离本事件或岳昕同学的讨论
     
 - Issue讨论规则：
-    - Issue用于维护这个Repo与讨论这个Repo相关的事情
-    - 如果您质疑这个Repo为什么存在，请前往Issue #530 讨论
-    - Issue的格式：请在标题前加上主题，e.g. [Discussion], [Bugfix], [Request], [Enhancement].
-    - Issue中讨论时请注意文明用语
-    - Issue中讨论的内容请不要脱离此事件
-    - Issue过多回复会被Github close
-    - Owner, Collaborator无权删除你的issue，但是为了维护，会选择关闭重复、无关的Issue，这些Issue仍然可以访问与回复。
-
+    1. 发布前请检索是否有相似内容的issues, 如果不存在相似内容的issues，才可以根据 #532 的规则创建新的issues。否则issues关闭。
+    2. 为规范讨论，请勿发布抨击、诋毁、辱骂他人的issues, 否则将面临issues 关闭。
+    3. 我们更不允许出现人肉等恶劣行为的发生。
+    - 格式：
+        1. 标题前加上 [Proposal] 提出修改建议或新消息
+        2. 标题前加上 [Bugfix] 提出代码Bug
+        3. 标题前加上 [Discussion] 提出与此事件或此repo相关的讨论
+    - Label意义：
+        1.  [discussion] 标记讨论
+        2.  [source/*] 标记信息来源、可靠程度等信息
+        3.  [bug] 项目技术问题
+        4.  [Topic Block] 专题讨论区
+        
 ## 我该如何提供我掌握的信息
 
 - 如果您有信息提交的话，您可以
