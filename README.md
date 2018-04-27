@@ -10,7 +10,7 @@
 
 - 客观公正的记录整个事件中的过程，以及各家发出的声音。
 - 监督学校的行为，为保护岳同学尽一点力量
-- 如果您有其他的目的及用途，folk this and do whatever you want. 
+- 如果您有其他的目的及用途，fork this repo and do whatever you want. 
 - 质疑这个库为什么存在，您可以前往 [Repo讨论](https://github.com/sikaozhe1997/Xin-Yue/issues/530)
 
 ## 版权说明
@@ -47,6 +47,8 @@
         
         [人民日报：如何聆听“年轻的声音”](https://sikaozhe1997.github.io/Xin-Yue/#/%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%AF%84%E8%AE%BA%EF%BC%9A%E5%A6%82%E4%BD%95%E8%81%86%E5%90%AC%E2%80%9C%E5%B9%B4%E8%BD%BB%E7%9A%84%E5%A3%B0%E9%9F%B3%E2%80%9D%EF%BC%9F.md)
     
+        [中青报：问诊高校信息公开：部分高校被指仍有防范心态](https://sikaozhe1997.github.io/Xin-Yue/#/%E9%97%AE%E8%AF%8A%E9%AB%98%E6%A0%A1%E4%BF%A1%E6%81%AF%E5%85%AC%E5%BC%80-%E4%B8%AD%E5%9B%BD%E9%9D%92%E5%B9%B4%E6%8A%A5-20170426%E6%9C%9F%E7%AC%AC5%E7%89%88.md)
+        
     - 燕园内事件与北大回应：
         
         [北大外院：情况通报](https://sikaozhe1997.github.io/Xin-Yue/#/%E5%A4%96%E5%9B%BD%E8%AF%AD%E5%AD%A6%E9%99%A2-%E6%83%85%E5%86%B5%E8%AF%B4%E6%98%8E.md)
@@ -54,6 +56,8 @@
         [王艳超：作为辅导员说明情况](https://sikaozhe1997.github.io/Xin-Yue/#/%E8%BE%85%E5%AF%BC%E5%91%98%E5%9B%9E%E5%A4%8D.md)
         
         [沈岿教授：校园约谈指南](https://sikaozhe1997.github.io/Xin-Yue/#/%E6%B2%88%E5%B2%BF%EF%BC%9A%E3%80%8A%E5%AD%A6%E6%A0%A1%E7%BA%A6%E8%B0%88%E6%8C%87%E5%8D%97%E3%80%8B.md)
+        
+        [彭錞教授：约谈是什么东西](https://sikaozhe1997.github.io/Xin-Yue/#/%E7%BA%A6%E8%B0%88%E6%98%AF%E4%B8%AA%E4%BB%80%E4%B9%88%E4%B8%9C%E8%A5%BF.md)
         
         [燕园事件：声援勇士岳昕](https://sikaozhe1997.github.io/Xin-Yue/#/23%E6%97%A5%E6%99%9A%E5%8C%BF%E5%90%8D%E8%80%85%E5%A3%B0%E6%8F%B4%E5%B2%B3%E6%98%95%E5%AD%97%E6%8A%A5)
 
