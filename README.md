@@ -53,7 +53,7 @@
         
         [王艳超：作为辅导员说明情况](https://sikaozhe1997.github.io/Xin-Yue/#/%E8%BE%85%E5%AF%BC%E5%91%98%E5%9B%9E%E5%A4%8D.md)
         
-        [沈岿教授：校园约谈指南](https://sikaozhe1997.github.io/Xin-Yue/#/%E6%B2%88%E5%B2%BF%EF%BC%9A%E3%80%8A%E5%AD%A6%E6%A0%A1%E7%BA%A6%E8%B0%88%E6%8C%87%E5%8D%97%E3%80%8B%EF%BC%88%E5%BB%BA%E8%AE%AE%EF%BC%8C%E7%AC%AC%E4%BA%8C%E7%A8%BF%EF%BC%89.md)
+        [沈岿教授：校园约谈指南](https://sikaozhe1997.github.io/Xin-Yue/#/%E6%B2%88%E5%B2%BF%EF%BC%9A%E3%80%8A%E5%AD%A6%E6%A0%A1%E7%BA%A6%E8%B0%88%E6%8C%87%E5%8D%97%E3%80%8B.md)
         
         [彭錞教授：约谈是什么东西](https://sikaozhe1997.github.io/Xin-Yue/#/%E7%BA%A6%E8%B0%88%E6%98%AF%E4%B8%AA%E4%BB%80%E4%B9%88%E4%B8%9C%E8%A5%BF.md)
         
