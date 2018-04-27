@@ -43,7 +43,7 @@
         
         [公众号 - C计划-蓝方：那些珍贵的年轻人](https://sikaozhe1997.github.io/Xin-Yue/#/%E9%82%A3%E4%BA%9B%E7%8F%8D%E8%B4%B5%E7%9A%84%E5%B9%B4%E8%BD%BB%E4%BA%BA.md)
         
-        [公众号 - historicize：我所认识的木田同学](https://sikaozhe1997.github.io/Xin-Yue/#/我所认识的木田同学.md)
+        [公众号 - historicize：我所认识的木田同学](https://sikaozhe1997.github.io/Xin-Yue/#/%E6%88%91%E6%89%80%E8%AE%A4%E8%AF%86%E7%9A%84%E6%9C%A8%E7%94%B0%E5%90%8C%E5%AD%A6.md)
     
     - 新闻报道：
         
