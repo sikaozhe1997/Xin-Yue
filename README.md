@@ -49,7 +49,7 @@
     
         [中青报：问诊高校信息公开：部分高校被指仍有防范心态](https://sikaozhe1997.github.io/Xin-Yue/#/%E9%97%AE%E8%AF%8A%E9%AB%98%E6%A0%A1%E4%BF%A1%E6%81%AF%E5%85%AC%E5%BC%80-%E4%B8%AD%E5%9B%BD%E9%9D%92%E5%B9%B4%E6%8A%A5-20170426%E6%9C%9F%E7%AC%AC5%E7%89%88.md)
         
-        [环球时报：北大女学生发公开信事件刍议](https://sikaozhe1997.github.io/Xin-Yue/#/北大女学生发公开信事件刍议.md)
+        [环球时报：北大女学生发公开信事件刍议](https://sikaozhe1997.github.io/Xin-Yue/#/%E5%8C%97%E5%A4%A7%E5%A5%B3%E5%AD%A6%E7%94%9F%E5%8F%91%E5%85%AC%E5%BC%80%E4%BF%A1%E4%BA%8B%E4%BB%B6%E5%88%8D%E8%AE%AE.md)
         
         
     - 燕园内事件与北大回应：
