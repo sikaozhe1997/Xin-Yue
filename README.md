@@ -42,6 +42,8 @@
         [公众号 - 量产基地：申请公开信息事件经过](https://sikaozhe1997.github.io/Xin-Yue/#/%E7%94%B3%E8%AF%B7%E5%85%AC%E5%BC%80%E4%BF%A1%E6%81%AF%E4%BA%8B%E4%BB%B6%E7%BB%8F%E8%BF%87%EF%BC%88%E9%87%8F%E4%BA%A7%E5%9F%BA%E5%9C%B0%EF%BC%89.md)
         
         [公众号 - C计划-蓝方：那些珍贵的年轻人](https://sikaozhe1997.github.io/Xin-Yue/#/%E9%82%A3%E4%BA%9B%E7%8F%8D%E8%B4%B5%E7%9A%84%E5%B9%B4%E8%BD%BB%E4%BA%BA.md)
+        
+        [公众号 - historicize：我所认识的木田同学](https://sikaozhe1997.github.io/Xin-Yue/#/我所认识的木田同学.md)
     
     - 新闻报道：
         
