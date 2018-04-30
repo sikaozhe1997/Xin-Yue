@@ -34,6 +34,8 @@
         [岳昕：一个北大既得利益者的自述](https://sikaozhe1997.github.io/Xin-Yue/#/%E4%B8%80%E4%B8%AA%E5%8C%97%E5%A4%A7%E6%97%A2%E5%BE%97%E5%88%A9%E7%9B%8A%E8%80%85%E7%9A%84%E8%87%AA%E8%BF%B0.md)
         
         [岳昕：新年献词 | 2017的三个追问](https://sikaozhe1997.github.io/Xin-Yue/#/%E5%B2%B3%E6%98%95%EF%BC%9A%E6%96%B0%E5%B9%B4%E7%8C%AE%E8%AF%8D--2017%E7%9A%84%E4%B8%89%E4%B8%AA%E8%BF%BD%E9%97%AE.md)
+        
+        [木·田：我在公开信后的一周里](https://sikaozhe1997.github.io/Xin-Yue/#/%E6%9C%A8%C2%B7%E7%94%B0%EF%BC%9A%E6%88%91%E5%9C%A8%E5%85%AC%E5%BC%80%E4%BF%A1%E5%90%8E%E7%9A%84%E4%B8%80%E5%91%A8%E9%87%8C.md)
    
     - 社会评论：
 
