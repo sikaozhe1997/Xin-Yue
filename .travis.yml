@@ -1,0 +1,15 @@
+language: node_js
+
+node_js:
+    - "8.11.1"
+    - "9.11.1"
+
+before_script:
+    - "npm install -g markdown-link-check"
+
+script:
+    - "bash ./check_links.sh"
+
+after_script:
+    - "echo ${?}"
+
