@@ -3,6 +3,8 @@
 * [这个库用来做什么](#这个库用来干什么)
 * [版权说明](#版权说明)
 * [我想了解这个事件](#我想了解这个事件)
+* [Gitpage-1:大陆地区无法访问](https://sikaozhe1997.github.io/Xin-Yue/)
+* [Gitpage-2](https://mofiths.github.io/Xin-Yue/#/)
 * [我想参与讨论这个事件](#我想参与讨论这个事件)
 * [我该如何提供我掌握的信息](#我该如何提供我掌握的信息)
 
@@ -23,7 +25,7 @@
 
 - 如果您想了解整个事件请访问[Gitpage](https://sikaozhe1997.github.io/Xin-Yue/) , 里面有事件开始到现在网络上出现过的大多数文章。网页中的文章皆不是该Repo的Owner，Collaborator，Contributor所写，这些只是他们所收集的文章，**真实性请自己判断**。
 
-- 最新动态：根据微信群的消息（真实性不确定），[岳昕同学已经回到学校](https://github.com/sikaozhe1997/Xin-Yue/issues/614)
+- 最新动态：[岳昕同学最新文章：我在公开信后的一周里](https://sikaozhe1997.github.io/Xin-Yue/#/%E6%9C%A8%C2%B7%E7%94%B0%EF%BC%9A%E6%88%91%E5%9C%A8%E5%85%AC%E5%BC%80%E4%BF%A1%E5%90%8E%E7%9A%84%E4%B8%80%E5%91%A8%E9%87%8C.md)
 
 - 已收录文章：
     
@@ -34,6 +36,8 @@
         [岳昕：一个北大既得利益者的自述](https://sikaozhe1997.github.io/Xin-Yue/#/%E4%B8%80%E4%B8%AA%E5%8C%97%E5%A4%A7%E6%97%A2%E5%BE%97%E5%88%A9%E7%9B%8A%E8%80%85%E7%9A%84%E8%87%AA%E8%BF%B0.md)
         
         [岳昕：新年献词 | 2017的三个追问](https://sikaozhe1997.github.io/Xin-Yue/#/%E5%B2%B3%E6%98%95%EF%BC%9A%E6%96%B0%E5%B9%B4%E7%8C%AE%E8%AF%8D--2017%E7%9A%84%E4%B8%89%E4%B8%AA%E8%BF%BD%E9%97%AE.md)
+        
+        [木·田：我在公开信后的一周里](https://sikaozhe1997.github.io/Xin-Yue/#/%E6%9C%A8%C2%B7%E7%94%B0%EF%BC%9A%E6%88%91%E5%9C%A8%E5%85%AC%E5%BC%80%E4%BF%A1%E5%90%8E%E7%9A%84%E4%B8%80%E5%91%A8%E9%87%8C.md)
    
     - 社会评论：
 
@@ -44,6 +48,8 @@
         [公众号 - 量产基地：申请公开信息事件经过](https://sikaozhe1997.github.io/Xin-Yue/#/%E7%94%B3%E8%AF%B7%E5%85%AC%E5%BC%80%E4%BF%A1%E6%81%AF%E4%BA%8B%E4%BB%B6%E7%BB%8F%E8%BF%87%EF%BC%88%E9%87%8F%E4%BA%A7%E5%9F%BA%E5%9C%B0%EF%BC%89.md)
         
         [公众号 - C计划-蓝方：那些珍贵的年轻人](https://sikaozhe1997.github.io/Xin-Yue/#/%E9%82%A3%E4%BA%9B%E7%8F%8D%E8%B4%B5%E7%9A%84%E5%B9%B4%E8%BD%BB%E4%BA%BA.md)
+        
+        [公众号 - historicize：我所认识的木田同学](https://sikaozhe1997.github.io/Xin-Yue/#/%E6%88%91%E6%89%80%E8%AE%A4%E8%AF%86%E7%9A%84%E6%9C%A8%E7%94%B0%E5%90%8C%E5%AD%A6.md)
     
     - 新闻报道：
         
